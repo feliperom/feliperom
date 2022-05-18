@@ -1,28 +1,6 @@
-# MyAppDemo
+# Hi there, I'm Felipe Romero! 🇧🇷 📍 Now living in Santos/SP - Brazil
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+[![Twitter Follow](https://img.shields.io/twitter/follow/feliperomer?label=Follow)](https://twitter.com/feliperomer)
+[![Linkedin: felipe-romero](https://img.shields.io/badge/-Felipe%20Romero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-romero/)](https://www.linkedin.com/in/felipe-romero/)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# my-app-demo
+<!-- I'm **Felipe Romero** (he/him). I'm a Front-End Software Engineer by passion and an expat by choice living now in Santos/SP, Brazil. I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community. -->
